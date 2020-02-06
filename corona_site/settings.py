@@ -25,7 +25,7 @@ SECRET_KEY = 'ixu^st=*jw1ck=bbdg67d@v-s&=o-m106rr_t6h9%a8*m(=-q1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['corona-site-hpmbe.run.goorm.io']
 
 
 # Application definition
